@@ -1,0 +1,12 @@
+[submodule "ClusterAnalysis"]
+	path = ClusterAnalysis
+	url = https://github.com/KrzysztofT415/ClusterAnalysis.git
+[submodule "TicTacToeUltimate"]
+	path = TicTacToeUltimate
+	url = https://github.com/KrzysztofT415/TicTacToeUltimate.git
+[submodule "FifteenSolver"]
+	path = FifteenSolver
+	url = https://github.com/KrzysztofT415/FifteenSolver.git
+[submodule "DigitRecognition"]
+	path = DigitRecognition
+	url = https://github.com/KrzysztofT415/DigitRecognition.git
